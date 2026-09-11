@@ -1,0 +1,8 @@
+{% for publication in site.data.publications %}
+<article class="cv-publication">
+  <h3><a href="{{ publication.paper_url | escape }}">{{ publication.title | escape }}</a></h3>
+  <p class="cv-publication__details">{% for author in publication.authors %}{% if author == 'Sungwon Seo' %}<strong>{{ author }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}<br>
+    <em>{{ publication.venue | escape }}</em>, {{ publication.year }}{% if publication.type == 'preprint' %} (preprint){% endif %}
+  </p>
+</article>
+{% endfor %}

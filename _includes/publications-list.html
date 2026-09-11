@@ -1,0 +1,20 @@
+{% comment %}One continuous list, using the image-and-content arrangement requested by the user.{% endcomment %}
+{% for publication in site.data.publications %}
+<div class="list__item">
+  <article class="archive__item publication__item" id="{{ publication.id }}">
+    <div class="publication__teaser">
+      <img src="{{ publication.image | relative_url }}" alt="{{ publication.image_alt | escape }}" width="640" height="400" loading="lazy" decoding="async">
+    </div>
+    <div class="publication__content">
+      <h2 class="archive__item-title"><a href="{{ publication.paper_url | escape }}">{{ publication.title | escape }}</a></h2>
+      <p>{% for author in publication.authors %}{% if author == 'Sungwon Seo' %}<strong>{{ author }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
+      <p><em>{{ publication.venue | escape }}</em>, {{ publication.year }}{% if publication.type == 'preprint' %} (preprint){% endif %}</p>
+      <p class="publication__links">
+        <a href="{{ publication.paper_url | escape }}">[Paper]</a>
+        {% if publication.arxiv_url %}<a href="{{ publication.arxiv_url | escape }}">[arXiv]</a>{% endif %}
+        {% if publication.project_url %}<a href="{{ publication.project_url | escape }}">[Project]</a>{% endif %}
+      </p>
+    </div>
+  </article>
+</div>
+{% endfor %}

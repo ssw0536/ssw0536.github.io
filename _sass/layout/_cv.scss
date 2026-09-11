@@ -1,0 +1,33 @@
+/* Compact spacing within each project; larger separation between projects. */
+.research-project {
+  margin-bottom: 2em;
+
+  h3 {
+    margin: 0 0 0.3em;
+  }
+
+  .research-project__years {
+    margin: 0 0 0.45em;
+    font-size: 0.8em;
+  }
+
+  ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+}
+
+/* CV publications use text only, independent of the illustrated publication rows. */
+.cv-publication {
+  margin-bottom: 1.5em;
+
+  h3 {
+    margin: 0 0 0.3em;
+    font-size: 1em;
+    line-height: 1.35;
+  }
+
+  .cv-publication__details {
+    margin: 0;
+  }
+}

@@ -1,0 +1,417 @@
+# Display order is newest first. Image paths are relative to the site root.
+- id: seo2026equigqnet
+  title: 'EquiGQNet: Fast Grasp Quality Evaluation via Shared Equivariant Point Cloud Encoding'
+  authors:
+  - Sungwon Seo
+  - Jaeseog Won
+  - Jiyou Shin
+  - Youngjin Seo
+  - Hyunjun Kim
+  - Seokmin Yoon
+  - Tuan Luong
+  - Hyungpil Moon
+  venue: arXiv:2609.07145
+  year: 2026
+  type: preprint
+  image: /images/publications/seo2026equigqnet.png
+  image_alt: ''
+  paper_url: https://arxiv.org/pdf/2609.07145
+  arxiv_url: https://arxiv.org/abs/2609.07145
+  project_url: https://equigqnet.github.io/
+- id: shin2026urf
+  title: 'URF: A Unified Robot Control-Policy Framework for Stable Contact Aware Manipulation'
+  authors:
+  - Jiyou Shin
+  - Youngjin Seo
+  - Jaeseog Won
+  - Sungwon Seo
+  - Hyunjun Kim
+  - Seokmin Yoon
+  - Tuan Luong
+  - Hyungpil Moon
+  venue: arXiv:2607.20912
+  year: 2026
+  type: preprint
+  image: /images/publications/shin2026urf.png
+  image_alt: ''
+  paper_url: https://arxiv.org/pdf/2607.20912
+  arxiv_url: https://arxiv.org/abs/2607.20912
+  project_url: https://jiyou384.github.io/urf_project_page/
+- id: espana2024grip
+  title: Grip points generation on motorcycle wire harnesses main branch based on computer vision and clustering
+  authors:
+  - Sofia Espana
+  - Juan Sanchez
+  - Carlos Saldarriaga
+  - Bryan Puruncajas
+  - Sungwon Seo
+  - Hyungpil Moon
+  - Francisco Yumbla
+  venue: 2024 10th International Conference on Automation, Robotics and Applications (ICARA)
+  year: 2024
+  type: conference
+  image: /images/publications/espana2024grip.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/icara60736.2024.10553107
+- id: yumbla2023wire
+  title: Wire harness connectors mating process by dual-arm co-manipulation using maximum manipulability
+  authors:
+  - Francisco Yumbla
+  - Juan Medrano
+  - Tuan Luong
+  - Sungwon Seo
+  - Jeongmin Jeon
+  - Hyungpil Moon
+  venue: 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)
+  year: 2023
+  type: conference
+  image: /images/publications/yumbla2023wire.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/case56687.2023.10260649
+- id: luong2023design
+  title: Design and Fabrication of an Array of Touch Sensors for Robotic Applications
+  authors:
+  - Tuan Luong
+  - Sungwon Seo
+  - Jeongmin Jeon
+  - Chanyong Park
+  - Myeongyun Doh
+  - Sanghyun Park
+  - Francisco Yumbla
+  - Hyungpil Moon
+  venue: 2023 IEEE 19th International Conference on Automation Science and Engineering (CASE)
+  year: 2023
+  type: conference
+  image: /images/publications/luong2023design.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/case56687.2023.10260487
+- id: yang2023design
+  title: Design and control of lightweight bionic arm driven by soft twisted and coiled artificial muscles
+  authors:
+  - Sang Yul Yang
+  - Kihyeon Kim
+  - Jeong U Ko
+  - Sungwon Seo
+  - Seong Taek Hwang
+  - Jae Hyeong Park
+  - Ho Sang Jung
+  - Young Jin Gong
+  - Ji Won Suk
+  - Hugo Rodrigue
+  - et al.
+  venue: Soft Robotics
+  year: 2023
+  type: journal
+  image: /images/publications/yang2023design.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1089/soro.2021.0058
+- id: tadese2022two
+  title: A two-step method for dynamic parameter identification of indy7 collaborative robot manipulator
+  authors:
+  - Meseret Tadese
+  - Nabih Pico
+  - Sungwon Seo
+  - Hyungpil Moon
+  venue: Sensors
+  year: 2022
+  type: journal
+  image: /images/publications/tadese2022two.png
+  image_alt: ''
+  paper_url: https://doi.org/10.3390/s22249708
+- id: yumbla2022design
+  title: Design of a Conveyor Belt Manipulator for Reposition of Boxes in Logistics Centers
+  authors:
+  - Francisco Yumbla
+  - Juan Medrano
+  - Edwin Valarezo
+  - Hong-Ryul Jung
+  - Tuan Luong
+  - Sungwon Seo
+  - Jinjae Shin
+  - Hyungpil Moon
+  venue: 2022 IEEE 18th International Conference on Automation Science and Engineering (CASE)
+  year: 2022
+  type: conference
+  image: /images/publications/yumbla2022design.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/case49997.2022.9926479
+- id: luong2022soft
+  title: 'Soft artificial muscle with proprioceptive feedback: design, modeling and control'
+  authors:
+  - Tuan Luong
+  - Sungwon Seo
+  - Jeongmin Jeon
+  - Chanyong Park
+  - Myeongyun Doh
+  - Yoonwoo Ha
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: IEEE Robotics and Automation Letters
+  year: 2022
+  type: journal
+  image: /images/publications/luong2022soft.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/lra.2022.3152326
+- id: yang2022hybrid
+  title: Hybrid antagonistic system with coiled shape memory alloy and twisted and coiled polymer actuator
+    for lightweight robotic arm
+  authors:
+  - Sang Yul Yang
+  - Kihyeon Kim
+  - Sungwon Seo
+  - Dongsu Shin
+  - Jae Hyeong Park
+  - Young Jin Gong
+  - Hyouk Ryeol Choi
+  venue: IEEE Robotics and Automation Letters
+  year: 2022
+  type: journal
+  image: /images/publications/yang2022hybrid.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/lra.2022.3150875
+- id: hudoklin2022vacuum
+  title: Vacuum suction cup modeling for evaluation of sealing and real-time simulation
+  authors:
+  - Jure Hudoklin
+  - Sungwon Seo
+  - Minseok Kang
+  - Haejoon Seong
+  - Anh Tuan Luong
+  - Hyungpil Moon
+  venue: IEEE Robotics and Automation Letters
+  year: 2022
+  type: journal
+  image: /images/publications/hudoklin2022vacuum.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/lra.2022.3145509
+- id: luong2022variable
+  title: Variable stiffness robotic hand driven by twisted-coiled polymer actuators
+  authors:
+  - Tuan Luong
+  - Sungwon Seo
+  - Jure Hudoklin
+  - Ja Choon Koo
+  - Hyeok Ryoul Choi
+  - Hyungpil Moon
+  venue: IEEE Robotics and Automation Letters
+  year: 2022
+  type: journal
+  image: /images/publications/luong2022variable.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/lra.2022.3145968
+- id: luong2021hysteresis
+  title: Hysteresis modeling of twisted-coiled polymer actuators using long short term memory networks
+  authors:
+  - Tuan Luong
+  - Sungwon Seo
+  - Kihyeon Kim
+  - Jeongmin Jeon
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: IFToMM Asian Conference on Mechanism and Machine Science
+  year: 2021
+  type: conference
+  image: /images/publications/luong2021hysteresis.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1007/978-3-030-91892-7_56
+- id: seo2021depth
+  title: Depth hole filling based on deep learning for robust grasp detection
+  authors:
+  - Sungwon Seo
+  - Luong Anh Tuan
+  - Eugene Auh
+  - Hyungpil Moon
+  venue: 2021 18th International Conference on Ubiquitous Robots (UR)
+  year: 2021
+  type: conference
+  image: /images/publications/seo2021depth.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/ur52253.2021.9494670
+- id: luong2021long
+  title: Long short term memory model based position-stiffness control of antagonistically driven twisted-coiled
+    polymer actuators using model predictive control
+  authors:
+  - Tuan Luong
+  - Kihyeon Kim
+  - Sungwon Seo
+  - Jeongmin Jeon
+  - Chanyong Park
+  - Myeongyun Doh
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: IEEE Robotics and Automation Letters
+  year: 2021
+  type: journal
+  image: /images/publications/luong2021long.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/lra.2021.3068905
+- id: luong2021realization
+  title: Realization of a simultaneous position-stiffness controllable antagonistic joint driven by twisted-coiled
+    polymer actuators using model predictive control
+  authors:
+  - Tuan Luong
+  - Sungwon Seo
+  - Kihyeon Kim
+  - Jeongmin Jeon
+  - Francisco Yumbla
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: IEEE Access
+  year: 2021
+  type: journal
+  image: /images/publications/luong2021realization.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/access.2021.3055034
+- id: luong2020simultaneous
+  title: Simultaneous position-stiffness control of antagonistically driven twisted-coiled polymer actuators
+    using model predictive control
+  authors:
+  - Tuan Luong
+  - Kihyeon Kim
+  - Sungwon Seo
+  - Jeongmin Jeon
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  year: 2020
+  type: conference
+  image: /images/publications/luong2020simultaneous.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/iros45743.2020.9340727
+- id: suh2020electron
+  title: Electron tunneling of hierarchically structured silver nanosatellite particles for highly conductive
+    healable nanocomposites
+  authors:
+  - Daewoo Suh
+  - KP Faseela
+  - Wonjoon Kim
+  - Chanyong Park
+  - Jang Gyun Lim
+  - Sungwon Seo
+  - Moon Ki Kim
+  - Hyungpil Moon
+  - Seunghyun Baik
+  venue: Nature Communications
+  year: 2020
+  type: journal
+  image: /images/publications/suh2020electron.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1038/s41467-020-15709-8
+- id: luong2019adaptive
+  title: An Adaptive Backstepping Terminal Sliding Mode Control for Stewart Platforms
+  authors:
+  - Tuan Anh Luong
+  - Sungwon Seo
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: 2019 16th International Conference on Ubiquitous Robots (UR)
+  year: 2019
+  type: conference
+  image: /images/publications/luong2019adaptive.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/urai.2019.8768656
+- id: luong2018impedance
+  title: Impedance control of a high performance twisted-coiled polymer actuator
+  authors:
+  - Tuan Luong
+  - Kihyeon Kim
+  - Sungwon Seo
+  - Jae Hyeong Park
+  - Youngeun Kim
+  - Sang Yul Yang
+  - Kyeong Ho Cho
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  year: 2018
+  type: conference
+  image: /images/publications/luong2018impedance.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/IROS.2018.8593937
+- id: luong2018modeling
+  title: Modeling and position control of a high performance twisted-coiled polymer actuator
+  authors:
+  - Tuan Luong
+  - Kihyeon Kim
+  - Sungwon Seo
+  - Jae Hyeong Park
+  - Youngeun Kim
+  - Sang Yul Yang
+  - Kyeong Ho Cho
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: 2018 15th International Conference on Ubiquitous Robots (UR)
+  year: 2018
+  type: conference
+  image: /images/publications/luong2018modeling.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/urai.2018.8441879
+- id: khan2018silver
+  title: Silver nanoflower decorated graphene oxide sponges for highly sensitive variable stiffness stress
+    sensors
+  authors:
+  - Fakhre Alam Khan
+  - C Muhammed Ajmal
+  - Seonghyun Bae
+  - Sungwon Seo
+  - Hyungpil Moon
+  - Seunghyun Baik
+  venue: Small
+  year: 2018
+  type: journal
+  image: /images/publications/khan2018silver.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1002/smll.201800549
+- id: luong2017differential
+  title: Differential hysteresis modeling with adaptive parameter estimation of a super-coiled polymer actuator
+  authors:
+  - Tuan Anh Luong
+  - Sungwon Seo
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+  year: 2017
+  type: conference
+  image: /images/publications/luong2017differential.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/urai.2017.7992683
+- id: luong2017continuous
+  title: Continuous terminal sliding mode control with perturbation estimation for a stewart platform
+  authors:
+  - Tuan Anh Luong
+  - Sungwon Seo
+  - Jeongmin Jeon
+  - Jeongyeol Park
+  - Ja Choon Koo
+  - Hyouk Ryeol Choi
+  - Hyungpil Moon
+  venue: 2017 14th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI)
+  year: 2017
+  type: conference
+  image: /images/publications/luong2017continuous.png
+  image_alt: ''
+  paper_url: https://doi.org/10.1109/urai.2017.7992751
+- id: seo2016flexible
+  title: Flexible touch sensors made of two layers of printed conductive flexible adhesives
+  authors:
+  - Sungwon Seo
+  - Seonggi Kim
+  - Jiyeon Jung
+  - Rujun Ma
+  - Seunghyun Baik
+  - Hyungpil Moon
+  venue: Sensors
+  year: 2016
+  type: journal
+  image: /images/publications/seo2016flexible.png
+  image_alt: ''
+  paper_url: https://doi.org/10.3390/s16091515
