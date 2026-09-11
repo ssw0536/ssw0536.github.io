@@ -15,8 +15,9 @@ body {
   background-color: var(--global-bg-color);
 
   margin: 0;
+  // Override the legacy value injected by the prebuilt sticky-footer script.
+  margin-bottom: 0 !important;
   padding: $masthead-height 0 0;
-  padding-bottom: 9em;
   font-family: $global-font-family;
   line-height: 1.5;
 
