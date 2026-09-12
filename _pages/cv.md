@@ -15,7 +15,7 @@ Ph.D. candidate, Robotics and Intelligent System Engineering Lab (RISE LAB), Sun
 
 ## Research Interests
 
-Robot learning and robotic manipulation, including imitation learning, reinforcement learning, and vision-language-action (VLA) models.
+Robot learning and robotic manipulation, including imitation learning, reinforcement learning, and vision-language-action models.
 
 {% include cv-content.md %}
 

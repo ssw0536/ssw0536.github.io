@@ -11,7 +11,7 @@ redirect_from:
 
 I am a Ph.D. candidate in the [Robotics and Intelligent System Engineering Lab (RISE LAB)](https://rise.skku.edu/) at Sungkyunkwan University, supervised by Prof. [Hyungpil Moon](https://scholar.google.com/citations?hl=ko&user=kBU7Os0AAAAJ).
 
-My research interests lie broadly in robot learning and robotic manipulation. I am particularly interested in learning-based approaches to robot policy learning, including imitation learning, reinforcement learning, and vision-language-action (VLA) models.
+My research interests lie broadly in robot learning and robotic manipulation. I am particularly interested in learning-based approaches to robot policy learning, including imitation learning, reinforcement learning, and vision-language-action models.
 
 ## Publications
 
