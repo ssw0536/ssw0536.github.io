@@ -50,4 +50,5 @@
 ## Reviewer
 
 - IEEE Transactions on Robotics (T-RO)
+- IEEE Transactions on Industrial Electronics (TIE)
 - IEEE International Conference on Automation Science and Engineering (CASE)
